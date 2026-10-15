@@ -17,7 +17,7 @@
 - 🛠 **Engineering & Automation:** Building cross-platform desktop applications (`C#`, `Avalonia UI`, `WPF`), browser extensions (`Manifest V3`), backend services (`PHP`, `Bash`), Discord/Telegram bots, and AI-powered workflow automation tools.
 - 🖥 **Infrastructure & Support Leadership:** 15+ years of hands-on experience in Linux/Windows server administration, networking, QA testing, system analysis, and leading **L1–L3 Technical Support** teams.
 - 🎸 **Creator of [EXTASY.ES](https://extasy.es):** Online Power & Heavy Metal radio station with custom streaming architecture, Cloudflare Workers routing, asynchronous lyrics/metadata engine, voice streaming Discord bots, and a desktop player.
-- 🎮 **Game Server Engineering:** Administrating custom dedicated servers (`MOD-EU`) and developing cross-platform desktop/Android monitoring tools (`KF2Monitor`).
+- 🎮 **Game Server Engineering:** Developing cross-platform desktop/Android monitoring tools (`KF2Monitor`).
 - 📍 Based in **Kyiv, Ukraine**.
 
 ---
